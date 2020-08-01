@@ -1,8 +1,14 @@
 ### Hi there 👋
-Eu so o Anderson Felix
+Eu so o Anderson Felix, desenvolver é um esporte, o trabalho é a analise 😄 🔭. 
+📫 
 
+- 🔭 I’m currently working on Consulting PHP (FrameWork CodeIgniter and Laravel) and PL/SQL development consultancy
+- 🌱 I’m currently learning ReactJs and VueJs 
+- 🤔 I'm looking for help with development others language for learning more.
+- 💬 Ask me about PHP Language, ReactJs, Laravel, Codeigniter and Oracle PL/SQL  
+- 📫 How to reach me: anderson.felix@devcodes.com.br   
+- ⚡ Fun fact: ...
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126" height="20" role="img" aria-label="Anderson: Developer"><title>Anderson: Developer</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="126" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="61" height="20" fill="#555"/><rect x="61" width="65" height="20" fill="#a4a61d"/><rect width="126" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="315" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="510">Anderson</text><text x="315" y="140" transform="scale(.1)" fill="#fff" textLength="510">Anderson</text><text aria-hidden="true" x="925" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="550">Developer</text><text x="925" y="140" transform="scale(.1)" fill="#fff" textLength="550">Developer</text></g></svg>
 
 <!--
 **andersonfelixds/andersonfelixds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
