@@ -1,7 +1,5 @@
 ### Hi there 👋
-Eu so o Anderson Felix, desenvolver é um esporte, o trabalho é a analise 😄 🔭. 
-📫 
-
+I'm Anderson Felix
 - 🔭 I’m currently working on Consulting PHP (FrameWork CodeIgniter and Laravel) and PL/SQL development consultancy
 - 🌱 I’m currently learning ReactJs and VueJs 
 - 🤔 I'm looking for help with development others language for learning more.
