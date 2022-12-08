@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Anderson Felix
-- 🔭 I’m currently working on Consulting PHP, NodeJs and PL/SQL development consultancy
+- 🔭 I’m currently working on Consulting PHP, NodeJs and Oracle development consultancy
 - 🌱 I’m currently learning ReactJs and Graphql 
 - 🤔 I'm looking for help with development others language for learning more.
 - 💬 Ask me about PHP Language, NodeJs, NestJs, ReactJs, Laravel, Codeigniter and Oracle DataBase  
