@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm Anderson Felix
-- 🔭 I’m currently working on Consulting PHP (FrameWork CodeIgniter and Laravel) and PL/SQL development consultancy
-- 🌱 I’m currently learning ReactJs and VueJs 
+- 🔭 I’m currently working on Consulting PHP, NodeJs and PL/SQL development consultancy
+- 🌱 I’m currently learning ReactJs and Graphql 
 - 🤔 I'm looking for help with development others language for learning more.
-- 💬 Ask me about PHP Language, ReactJs, Laravel, Codeigniter and Oracle PL/SQL  
+- 💬 Ask me about PHP Language, NodeJs, NestJs, ReactJs, Laravel, Codeigniter and Oracle DataBase  
 - 📫 How to reach me: anderson.felix@devcodes.com.br   
 - ⚡ Fun fact: ...
 
